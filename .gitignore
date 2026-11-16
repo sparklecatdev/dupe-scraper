@@ -1,0 +1,9 @@
+.dupe_deals/
+config.json
+*.local.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+output/
